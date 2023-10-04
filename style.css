@@ -32,23 +32,23 @@ p{
 }
 
 .content{
+    position: relative;
     max-width: 550px;
     background-color: white;
-    margin: 100px auto ;
+    margin: 150px auto ;
     box-shadow: 0px 20px 25px 0px rgba(0, 0, 0, 0.10);
     border-radius: 10px;
 
 }
 .content__body{
-    position: relative;
     padding: 30px;
 }
 
 
 .foto{
     position: absolute;
-    left: 94%;
-    bottom: 70%
+    right:-75px;
+    top: -75px;
     height: 150px;
     width: 150px;
     border: 3px solid white;
