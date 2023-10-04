@@ -47,15 +47,16 @@ p{
 
 .foto{
     position: absolute;
-    top: 30px;
-    left: 20px;
-    border-radius: 50%;
+    left: 94%;
+    bottom: 70%
     height: 150px;
     width: 150px;
     border: 3px solid white;
+    z-index: 3;
+    border-radius: 50%;
 }
 
-.buttom a{
+.button {
     display: block;
     padding: 10px;
     text-align: center;
@@ -65,13 +66,13 @@ p{
     border-radius: 5px;
 
 }
-.buttom__twitter{
+.twitter{
     background-color:#1da1f2 ;
     margin-bottom: 5px;
 
 }
-.buttom__facebook{
+.facebook{
     background-color: #3b5998;
-    
+    display: ;
 
 }
